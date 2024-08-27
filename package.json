@@ -12,7 +12,7 @@
     "dotenv-safe": "^9.1.0",
     "express": "^4.19.2",
     "http-errors": "~1.6.3",
-    "jade": "^0.31.2",
+    "jade": "^0.29.0",
     "mongoose": "^8.3.4",
     "morgan": "~1.9.1"
   },
